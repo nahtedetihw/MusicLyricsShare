@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.musiclyricsshare
+Name: MusicLyricsShare
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Long press lyrics in Apple Music to share them!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
